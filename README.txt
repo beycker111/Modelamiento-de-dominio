@@ -1,0 +1,1 @@
+En las carpetas se encuentra todo el material relacionado al módulo de Modelamiento de dominio
